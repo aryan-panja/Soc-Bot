@@ -9,6 +9,7 @@ from gtts import gTTS
 from io import BytesIO
 import IPython.display as ipd
 import tempfile
+import base64
 
 # Configure the API key (replace with your actual API key)
 # Load the environment variables from the .env file
@@ -65,16 +66,15 @@ if generate_response:
 
     # Convert text to voice using gTTS
     tts = gTTS(text=response.text, lang='en')
-    
+
     # Save the audio to a temporary file
     with tempfile.NamedTemporaryFile(delete=False, suffix=".mp3") as tmp_audio:
         tts.save(tmp_audio.name)
-        
-    # Play the audio
-    st.audio(tmp_audio.name, format='audio/mp3')
+
+    # Play the audio automatically using HTML audio element
+    st.markdown(f'<audio src="data:audio/mp3;base64,{base64.b64encode(open(tmp_audio.name, "rb").read()).decode()}" autoplay controls>', unsafe_allow_html=True)
 
     #add user history to separate json file
-
     uhistory.append({"role": "user", "parts": [input_prompt]})
     uhistory.append({"role": "model", "parts": [response.text]})
     with open("user_history.json", "w") as f:
