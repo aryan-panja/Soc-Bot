@@ -11,12 +11,18 @@ import IPython.display as ipd
 import tempfile
 import base64
 
+
+
 # Configure the API key (replace with your actual API key)
 # Load the environment variables from the .env file
 load_dotenv()
 
+
+
 # Get the API key from the environment variables
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+
+
 
 # Set up the model and load conversation history
 generation_config = {
@@ -37,21 +43,33 @@ model = genai.GenerativeModel(
     model_name="gemini-pro", generation_config=generation_config, safety_settings=safety_settings
 )
 
+# Loading Crops history for model
+with open("crops.json", "r") as f:
+    Crop_history = json.load(f)
+
 # Loading history for model
 with open("history.json", "r") as f:
     history = json.load(f)
+
+
 
 # Loading history for user
 with open("user_history.json", "r") as f:
     uhistory = json.load(f)
 
+
+
 # Set up the UI
 st.title("TAAS BOT")
 st.header("Come and chat with Thapar's first ever Society Bot!")
 
+
+
 # Display a message indicating that the bot is in testing version
 st.subheader("Testing Version")
 st.write("<p style='color:red;'>This bot is currently in testing version on the website.</p>", unsafe_allow_html=True)
+
+
 
 # Input and Generate Response Section
 st.subheader("Ask me Anything about my TAAS family!")
