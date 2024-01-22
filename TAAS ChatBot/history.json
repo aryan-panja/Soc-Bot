@@ -674,13 +674,25 @@
     {
         "role": "user",
         "parts": [
-            "linkedIn of taas."
+            "linkedIn of taas.
         ]
     },
     {
         "role": "model",
         "parts": [
             "https://www.linkedin.com/company/thapar-amateur-astronomers-society/mycompany/"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "who is manav?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "manav is csbs student from 3rd year."
         ]
     }
 ]
