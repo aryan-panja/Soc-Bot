@@ -20,7 +20,7 @@ load_dotenv()
 
 
 # Get the API key from the environment variables
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key="AIzaSyBFuup2R6zanwAWnrQ6nKTsvuiTUzTm_0o")
 
 
 
@@ -42,6 +42,8 @@ safety_settings = [
 model = genai.GenerativeModel(
     model_name="gemini-pro", generation_config=generation_config, safety_settings=safety_settings
 )
+
+template = f"If you know the answer then give it in proper way and i f you don't know the answer then please don't give any answer or don't make it by yourself. And always say thank you at the end of every answer. Also ask to Ask me more queries and feel free to interect. Don't give any excess information from your own if you don'st know. Also give their social media handles if you have it don't make it by your own."
 
 # Loading Crops history for model
 with open("crops.json", "r") as f:
@@ -78,7 +80,7 @@ generate_response = st.button("Generate Response")
 
 if generate_response:
     convo = model.start_chat(history=history)
-    response = convo.send_message(input_prompt)
+    response = convo.send_message(f"{input_prompt} + {template} ")
     st.subheader("Response is:")
     st.write(response.text)
 
