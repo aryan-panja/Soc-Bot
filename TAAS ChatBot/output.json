@@ -1,0 +1,1934 @@
+[
+    {
+        "role": "user",
+        "parts": [
+            "you are a summer semester bot that will solve the user's queries regarding summer semester. You will give only straight to the point answers and don't give answers you don't have knowledge of. be precise and greet if the user greets."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Hello there! I'm here to help you with your summer semester queries. Feel free to ask away!"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- i have course UCT/UHU/UBT/UEE/U01/UMA ,Can i sit for summer semester"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "yes you can sit for summer semester doesnt matter which subject you are talking about."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- i have course UCT/UHU/UBT/UEE/U01/UMA ,Can i improve my grades."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "yes you can improve grades if they are in eligibility criteria of the summer term."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- can i opt for summer sem/grade upgrade"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "yes you can opt for summer term if you wish to improveyour grades"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can I upgrade my grade for subject UCT502?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "yes you can upgrade your grade in UCT502"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Tell me about grade improvement for UCS301."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "you can go for grade improvement if this subject is available this time in summer term"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can I upgrade my grade for UCT201?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "yes you can give UCT201 for upgradation in summer"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How can I upgrade my grade for UCS401?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "By taking this subject in summer term you can upgrade its grade"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Tell me about grade improvement."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Grade improvement is generally done in summer term ionly if your grades are matching the criteria for summer term"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- how to upgrade my grade?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "you can take summer term for that or you can also go for auxiliary "
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Considering summer semester for UCT/UHU/UBT/UEE/U01/UMA courses. Possible?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "yes it's possible if they will be offered this time"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Options to enhance grades in UCT/UHU/UBT/UEE/U01/UMA courses?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "you can opt that subjects "
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Enroll in summer semester while improving grades for UCT/UHU/UBT/UEE/U01/UMA?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Its upon you in which subject you want to enroll "
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Upgrade grade for UCT502. Feasible?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Yes it's fesable if you are meeting the eligiblity criteria and the subject is offered this time"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What is the mode for subject UCT403 with a grade of B?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "it depends on grade remember if the subject is offered t is offered then you can opt for it a t B grade"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can I change the mode for grade C- in subject UCS402?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The modes applicable at grade C- are self study and regular both you can opt for anyone of them "
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- I received an E in subject UCT301, can I select self-study mode?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "yes you can opt for self study mode with E grade also but you have to meet the condition that your total marks obtained should be >= 25 else you will get regular mode"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How do I upgrade my grade for UCT102?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "by taking summer semester you can do so, but for that you need to be eligible for it with the current grades like B/B-/C/C-/X/F/E"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Please tell me the mode for a B- in subject UCT202."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "at B- grade you can opt for any mode(self study or regular mode)"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Is self-study mode an option for an F grade in subject UCS101?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "if you are having F grade you will given self study mode according to our rules"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- I have a C in subject UCT101; can I improve my grade?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "yes you can approve your C grade in UCT101 and you can take any mode for the same"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What is the mode for a grade A in subject UCS301 for UCT301?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "you cant take summer semester at A grade, sorry you are not eligible for it "
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- I received a C- in subject UCT201; can I choose self-study mode?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "yes at C- grade you have both the options available"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What's the mode for a grade E in UCT401?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "condition is simple here either you can give auxiliary with fees (15,000) where the max grade at can be C else you can opt for self study mode if you have total marks >= 35"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can I upgrade my grade for subject UCS301?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "yes you just need to eligible for summer semester (eligibility criteria - B/B/C/C/X/F/E/RA"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- For UCT202, what's the mode for a B grade?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "you can opt for any mode at B grade"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How can I improve my grade for UCT101?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "yes u just need to be eligible for summer semester."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- I need to change the mode for the subject UCS401; I received a C-."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "you can take regular and self study mode for it "
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What's the mode for a B- in UCS402?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "you can opt for both modes at B- grade"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Is self-study mode available for a C grade in UCS201?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "yes at C grade you can opt for self study also"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can I opt for self-study mode if I got an X grade in UCT501?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "at X grade you have only option that is regular mode"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What is the mode for subject UCS202 with a grade of F?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "at F grade you will alloted regular mode only "
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- I have a C- in UCS401; can I upgrade my grade?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "yes you can do it (it's no only for grades upper than B)"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Is self-study mode available for a B grade in UCS403?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "yes at B grade both modes are available"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can I opt for self-study mode if I got an X grade in UCT301?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "no only regular mode at X grade"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How do I change the mode for the subject UCS501 and grade B-?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "you can take any mode of study once the course is allocated"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- I received a B+ in UCT403; can I upgrade my grade?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "yes at B you can go for summer term"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What is the mode for grade I in UCT402?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "it depends upon you current grade"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- I have an A in UCS401; can I upgrade my grade?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "no studenys with grade more than B cant take summer semester"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Tell me about the mode for grade C in UCT301."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "both are there self study and regular you can go for any you want"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Is self-study mode available for an E grade in UCS501?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "only if your total marks are more than 25"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What's the mode for a B- in UCS401?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "you can opt any mod"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Tell me about the mode for grade F in UCT202."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "only regular mode is there for F and X grade"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- For UCT501, what's the mode for grade A-?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "you cant take summer semester at A- grade or A grade"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What's the mode for an X grade in UCT301?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "only regular mode at X grade"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Is self-study mode an option for an A- in UCS301?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "no nothing for A- grade "
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can I opt for self-study mode with an X grade?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "no "
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can I upgrade my grade for an I grade?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "yes only EST if taken in form of auxiliary"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What's the mode for a B- grade?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "both modes are there for B- grade"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What are the auxiliary examination fees?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can you tell me the cost of the auxiliary examination?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How much do I need to pay for the auxiliary examination?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "For each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Auxiliary exam fee details, please."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Tell me about the charges for the auxiliary exam."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What's the cost of the auxiliary examination in the summer semester?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How can I find out the fees for the auxiliary exam in January?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Is there a fee for the self-study mode in the auxiliary exam?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Tell me the cost for upgrading my grade in the auxiliary exam."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What's the price of the auxiliary examination in July?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Please provide information on auxiliary exam fees."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Give me details about the auxiliary exam costs."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What's the tuition for the auxiliary exam?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- I'm interested in the cost of auxiliary exams."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How much should I budget for auxiliary examination fees?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can you explain the financial aspect of auxiliary examinations?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What's the cost of an auxiliary exam in regular mode?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- I need to budget for the auxiliary examination, how much is it?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Auxiliary exam fee details, please.."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How can I find out the fees for the auxiliary exam in January?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Cost of self-study mode?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Upgrading grade cost?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- July exam price?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Tuition for auxiliary exam?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Auxiliary fees info?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Exam cost?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Self-study mode price?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Upgrade grade cost?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- July exam fee?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of each subject in Auxiliary (held in January and July) is Rs. 2000, whereas for backlog it is Rs. 15,000."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- summer fees"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "For backlog, The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- fees"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "For backlog, The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- what is the fees for backlog courses?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- what is the fees for summer term?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "For summer term, if you want to know about the backlog fees, The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- how much do i need to pay for summmer term?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "For summer term, if you want to know about the backlog fees, The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How much does it cost to register for a backlog?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What is the fee for a backlog?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can you tell me the price for registering in a backlog?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How can I find out the fees for backlog?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Fee for retaking?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Fee for reappearing in?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What's the fee structure for backlog?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Fee for redoing?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- I'm considering reappearing in some; what's the financial aspect of that?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What's the financial commitment for repeating a course?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "For repeating the course. The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How much will it set me back to register again for a subject?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- I'm planning to retake a few; tell me about the fees."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Is there a charge for enrolling in a course I've already taken?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Yes, The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How do I pay for a subject I've already studied?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- I need to understand the monetary side of retaking."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- I'm thinking of reenrolling in some; how does that impact my finances."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "If you are reenrolling in some of the subjects then the fees structure would be: The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What is the cost of the summer term?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- backlog fees"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- backlog course money"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- money for a backlog"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- summer semester cost?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "The cost of backlog courses is Rs. 15,000 per subject, which is non-refundable once the form is submitted."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What is the refund policy for fees?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Tell me about the fees refund process."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Are there any conditions for fee refunds?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- I want to know if my fees can be refunded."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Explain the fee refund policy."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- When is the deadline for requesting a fee refund?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can you guide me through the fees refund procedure?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What is the percentage of fees that can be refunded?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Do I qualify for a refund on my fees?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Is there a limit on fees refundability?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How soon can I expect a refund on my fees?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What happens if I miss the fees refund deadline?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- I have enrolled in UCT567 in summer semester but I want to cancel my enrollement"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can i cancel my summer semester enrollemet?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How can I cancel my enrollment for UCT567 in the summer semester?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Once you have enrolled, fees will be non-refundable and non-adjustable."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can I withdraw from UCT567 in the summer term, and what's the process?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Once you have enrolled, fees will be non-refundable and non-adjustable."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What steps should I take if I want to cancel my summer semester enrollment in UCT567?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Once you have enrolled, fees will be non-refundable and non-adjustable."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Is there a deadline for canceling my enrollment in UCT567 for the summer semester?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Once you have enrolled, fees will be non-refundable and non-adjustable."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Are there any fees associated with canceling my enrollment in UCT567 for the summer term?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can I cancel my summer semester enrollment without incurring additional charges?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What happens to the fees I've paid if I decide to cancel my enrollment in UCT567 for the summer semester?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Are there specific conditions for canceling enrollment in UCT567 during the summer term?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How soon can I expect a refund if I cancel my enrollment in UCT567 for the summer semester?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Once you have enrolled, fees will be non-refundable and non-adjustable."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can I request a refund for the summer semester if I cancel my enrollment in UCT567?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Once you have enrolled, fees will be non-refundable and non-adjustable."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What documentation is required for canceling my enrollment in UCT567 for the summer term?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How does the cancellation of enrollment in UCT567 affect my academic record for the summer term?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- fees refund summer semester possible"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "NO, Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Conditions for refunding summer semester fees?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Are there non-refundable fees in summer semester?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Deadline for summer semester fee refund?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can I get a partial refund in summer semester?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Which fees are non-refundable in summer?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- i have some family emergency , can i refund my fees ?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Fees is not-refundable and non-adjustable once you have submitted the form for it."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What happens to my scholarship if I upgrade my grades?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can I still get a scholarship after improving my grades?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Explain the eligibility criteria for medals after grade upgradation."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Do upgraded grades affect my chances of getting a scholarship?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "NO, Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How does grade upgradation impact medal eligibility?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Yes, Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Tell me about scholarships and upgradation rules."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Will my scholarship status change if I improve my grades?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Are there any changes in scholarship eligibility after upgrading?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- What are the scholarship guidelines after grade improvement?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can I receive a medal after upgrading my course grades?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "No, Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Am I eligible for a medal if taking the summer term?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "NO, Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can I get a medal if I qualified in the summer term?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Does my scholarship get canceled if I decide to upgrade my grades?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Are there specific requirements for receiving a scholarship after grade upgradation?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- How does the scholarship committee view students who upgrade their grades?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Can I upgrade my grades and apply for scholarships in the same term?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Yes, but Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Explain the connection between medals and grade upgradation."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Walk me through the steps of applying for scholarships after upgrading my grades."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Eligibility for medals post-summer semester?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Medal eligibility post upgrade?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Improve grades, retain scholarship?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Medal chances with successful upgrade?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Grade retakes and medal eligibility?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "- Maintain scholarship post-upgrade?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Student who has improved his/her grades during summer semester will not be considered for medal / scholarship / upgradation on the basis of improved grades. Marks / grades obtained only in/during 1st attempt of the course will only be considered for medal / scholarship / upgradation."
+        ]
+    }
+]

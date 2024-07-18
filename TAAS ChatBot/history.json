@@ -694,5 +694,17 @@
         "parts": [
             "manav is csbs student from 3rd year."
         ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "who is shivansh?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "shivansh is a member of TAAS. He is in 2nd year COE in thapar.\nHe is from Delhi.\nRecently he has won SIH  2023 and Rajasthan Police Hack 2024.\nHe is a speed cuber"
+        ]
     }
 ]
